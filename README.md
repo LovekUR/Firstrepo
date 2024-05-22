@@ -1,2 +1,2 @@
-# github-demo
+# First demo
 This is my first repository file
